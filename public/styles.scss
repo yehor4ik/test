@@ -1,0 +1,6 @@
+$color: green;
+
+body {
+    @import "src/title.scss";
+    background-color: $color;
+}
